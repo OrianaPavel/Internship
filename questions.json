@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "What is the capital of France?",
+      "choices": ["Berlin", "Paris", "Madrid", "Rome"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "questionText": "Which planet is known as the Red Planet?",
+      "choices": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "questionText": "Who wrote 'The Great Gatsby'?",
+      "choices": ["F. Scott Fitzgerald", "Charles Dickens", "Jane Austen", "Mark Twain"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "questionText": "What is the square of 9?",
+      "choices": ["81", "64", "49", "36"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "questionText": "Which scientist developed the theory of general relativity?",
+      "choices": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Stephen Hawking"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "questionText": "What is the currency of Japan?",
+      "choices": ["Yuan", "Won", "Yen", "Ringgit"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "questionText": "Who painted the Sistine Chapel ceiling?",
+      "choices": ["Vincent van Gogh", "Leonardo da Vinci", "Michelangelo", "Pablo Picasso"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 8,
+      "questionText": "What is the capital of Australia?",
+      "choices": ["Canberra", "Sydney", "Melbourne", "Brisbane"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 9,
+      "questionText": "What is the largest ocean on Earth?",
+      "choices": ["Atlantic", "Indian", "Southern", "Pacific"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 10,
+      "questionText": "Who wrote '1984'?",
+      "choices": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Margaret Atwood"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 11,
+      "questionText": "What is the freezing point of water in Fahrenheit?",
+      "choices": ["32°F", "0°F", "-10°F", "50°F"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 12,
+      "questionText": "Who discovered penicillin?",
+      "choices": ["Alexander Fleming", "Louis Pasteur", "Marie Curie", "Joseph Lister"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 13,
+      "questionText": "What is the largest mammal in the world?",
+      "choices": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 14,
+      "questionText": "Which country is known as the Land of the Rising Sun?",
+      "choices": ["China", "Japan", "South Korea", "Vietnam"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 15,
+      "questionText": "What is the chemical symbol for sodium?",
+      "choices": ["Na", "Ca", "Fe", "Mg"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 16,
+      "questionText": "Who is the author of 'The Catcher in the Rye'?",
+      "choices": ["J.D. Salinger", "Ernest Hemingway", "F. Scott Fitzgerald", "Mark Twain"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 17,
+      "questionText": "What is the largest planet in our solar system?",
+      "choices": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 18,
+      "questionText": "In which year did the Titanic sink?",
+      "choices": ["1905", "1912", "1920", "1931"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 19,
+      "questionText": "Who is known as the 'Father of Computer Science'?",
+      "choices": ["Alan Turing", "Bill Gates", "Steve Jobs", "Tim Berners-Lee"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 20,
+      "questionText": "What is the capital of Brazil?",
+      "choices": ["Peso", "Real", "Rupee", "Dollar"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 21,
+      "questionText": "What is the chemical symbol for oxygen?",
+      "choices": ["Og", "Ox", "Oz", "O"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 22,
+      "questionText": "Who discovered the law of gravitation?",
+      "choices": ["Isaac Newton", "Galileo Galilei", "Johannes Kepler", "Albert Einstein"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 23,
+      "questionText": "What is the capital of Canada?",
+      "choices": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 24,
+      "questionText": "Which gas makes up the majority of Earth's atmosphere?",
+      "choices": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 25,
+      "questionText": "What is the speed of light?",
+      "choices": ["299,792 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 26,
+      "questionText": "Who is the 'Queen of Pop'?",
+      "choices": ["Madonna", "Beyoncé", "Lady Gaga", "Rihanna"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 27,
+      "questionText": "What is the smallest prime number?",
+      "choices": ["0", "1", "2", "3"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 28,
+      "questionText": "Who discovered electricity?",
+      "choices": ["Thomas Edison", "Nikola Tesla", "Benjamin Franklin", "Alexander Graham Bell"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 29,
+      "questionText": "Which country is famous for its tulips?",
+      "choices": ["France", "Netherlands", "Italy", "Germany"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 30,
+      "questionText": "What is the largest desert in the world?",
+      "choices": ["Gobi", "Sahara", "Arabian", "Antarctica"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 31,
+      "questionText": "Who is the author of 'Pride and Prejudice'?",
+      "choices": ["Charlotte Brontë", "Jane Austen", "Emily Brontë", "Charles Dickens"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 32,
+      "questionText": "What is the chemical symbol for silver?",
+      "choices": ["Si", "Ag", "Au", "Sr"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 33,
+      "questionText": "Who painted 'Starry Night'?",
+      "choices": ["Vincent van Gogh", "Claude Monet", "Pablo Picasso", "Leonardo da Vinci"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 34,
+      "questionText": "What is the largest city in the world by population?",
+      "choices": ["Beijing", "Delhi", "Tokyo", "Shanghai"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 35,
+      "questionText": "Which element has the atomic number 1?",
+      "choices": ["Hydrogen", "Oxygen", "Carbon", "Helium"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 36,
+      "questionText": "Who developed the theory of evolution by natural selection?",
+      "choices": ["Charles Darwin", "Alfred Russel Wallace", "Gregor Mendel", "Jean-Baptiste Lamarck"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 37,
+      "questionText": "What is the capital of South Korea?",
+      "choices": ["Beijing", "Tokyo", "Seoul", "Bangkok"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 38,
+      "questionText": "What is the chemical symbol for iron?",
+      "choices": ["I", "Fe", "Ir", "In"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 39,
+      "questionText": "Who is known as the 'Father of Geometry'?",
+      "choices": ["Euclid", "Pythagoras", "Archimedes", "Aristotle"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 40,
+      "questionText": "What is the largest mountain in the world?",
+      "choices": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 41,
+      "questionText": "What is the capital of Italy?",
+      "choices": ["Barcelona", "Rome", "Madrid", "Athens"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 42,
+      "questionText": "What is the chemical symbol for lead?",
+      "choices": ["L", "Le", "Pb", "P"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 43,
+      "questionText": "Who wrote 'War and Peace'?",
+      "choices": ["Leo Tolstoy", "Fyodor Dostoevsky", "Anton Chekhov", "Aleksandr Solzhenitsyn"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 44,
+      "questionText": "What is the largest country by land area?",
+      "choices": ["United States", "Canada", "Russia", "China"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 45,
+      "questionText": "Which gas is responsible for the green color of plants?",
+      "choices": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Chlorophyll"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 46,
+      "questionText": "Who composed 'Symphony No. 9'?",
+      "choices": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Sebastian Bach", "Pyotr Ilyich Tchaikovsky"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 47,
+      "questionText": "What is the capital of South Africa?",
+      "choices": ["Nairobi", "Johannesburg", "Cape Town", "Pretoria"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 48,
+      "questionText": "What is the chemical symbol for potassium?",
+      "choices": ["K", "P", "Po", "Ke"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 49,
+      "questionText": "Who is the founder of Microsoft?",
+      "choices": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Larry Page"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 50,
+      "questionText": "What is the boiling point of water in Kelvin?",
+      "choices": ["273 K", "300 K", "373 K", "100 K"],
+      "correctAnswer": 2
+    }
+  ]
+}
